@@ -15,6 +15,9 @@ I am currently Working on Web Development skills mostly the Backend Part with No
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atik-7866&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 Hacktoberfest
+[![An image of @atik7866's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atik7866)](https://holopin.io/@atik7866)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
